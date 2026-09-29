@@ -15,6 +15,8 @@ My exercises and notes while learning Kotlin through the
 - [x] Null Safety
 
 ### Intermediate
-- [ ] Not started yet
+- [x] Extension Functions
+- [x] Scope Functions
+- [x] Lambda With Receivers
 
 This repository is mainly for practice and tracking my progress while learning Kotlin.

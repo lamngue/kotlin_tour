@@ -1,0 +1,18 @@
+# Kotlin / Java compiled files
+*.class
+*.jar
+
+# Build output
+build/
+out/
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
